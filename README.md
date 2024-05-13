@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Video Link
-[Click Here!](https://www.youtube.com/watch?v=MQmZyLHzx4k)
+[Click Here!](https://youtu.be/6wgLG_u5Mo8)
 
 ## Description
 This project is the back end for an e-commerce site called EmporifyTech. The back end utilizes Express.js, Sequelize to interact with a MySQL database, node.js to initialize the app and insomnia to verify if all the routes are working.
